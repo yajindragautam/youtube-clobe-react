@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/youtube-clobe-react/static/css/main.71a710e3.chunk.css",
+    "main.js": "/youtube-clobe-react/static/js/main.2b040bcd.chunk.js",
+    "main.js.map": "/youtube-clobe-react/static/js/main.2b040bcd.chunk.js.map",
+    "runtime-main.js": "/youtube-clobe-react/static/js/runtime-main.62908fa5.js",
+    "runtime-main.js.map": "/youtube-clobe-react/static/js/runtime-main.62908fa5.js.map",
+    "static/js/2.30503b25.chunk.js": "/youtube-clobe-react/static/js/2.30503b25.chunk.js",
+    "static/js/2.30503b25.chunk.js.map": "/youtube-clobe-react/static/js/2.30503b25.chunk.js.map",
+    "static/js/3.181f504e.chunk.js": "/youtube-clobe-react/static/js/3.181f504e.chunk.js",
+    "static/js/3.181f504e.chunk.js.map": "/youtube-clobe-react/static/js/3.181f504e.chunk.js.map",
+    "index.html": "/youtube-clobe-react/index.html",
+    "static/css/main.71a710e3.chunk.css.map": "/youtube-clobe-react/static/css/main.71a710e3.chunk.css.map",
+    "static/js/2.30503b25.chunk.js.LICENSE.txt": "/youtube-clobe-react/static/js/2.30503b25.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.62908fa5.js",
+    "static/js/2.30503b25.chunk.js",
+    "static/css/main.71a710e3.chunk.css",
+    "static/js/main.2b040bcd.chunk.js"
+  ]
+}
